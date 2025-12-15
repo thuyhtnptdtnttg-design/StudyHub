@@ -1,0 +1,7 @@
+{
+  "name": "StudyHub - Trạm Học Siêu Tốc",
+  "description": "Ứng dụng học tập thông minh dành cho học sinh THPT với phong cách vẽ tay sinh động. Tích hợp AI tạo Flashcard, chấm bài viết, luyện nói và sơ đồ tư duy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
